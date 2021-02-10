@@ -2,4 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-我是master分支修改
+解决冲突，合并分支
