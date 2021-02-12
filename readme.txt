@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 解决冲突，合并分支123456
 我在dev工作到一半
-新888888888888333333333333
+新8888888888883333333333336666666666666
+
 
